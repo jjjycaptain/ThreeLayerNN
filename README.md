@@ -1,8 +1,8 @@
 # 准备数据集
-从https://www.cs.toronto.edu/~kriz/cifar.html，下载cifar-10数据集（CIFAR-10 python version）,解压后将文件夹里的内容（不包含文件夹，只有数据）放到`./dataset/`目录下
+从 https://www.cs.toronto.edu/~kriz/cifar.html 下载cifar-10数据集（CIFAR-10 python version）,解压后将文件夹里的内容（不包含文件夹，只有数据）放到`./dataset/`目录下
 
 # 下载最佳模型
-从https://drive.google.com/file/d/1PQrwE2CrUwzc5O9tEoj0wf5FF9mnhTMj/view?usp=sharing，下载最优模型，解压后将整个文件夹放在`./result/`目录下
+从 https://drive.google.com/file/d/1PQrwE2CrUwzc5O9tEoj0wf5FF9mnhTMj/view?usp=sharing 下载最优模型，解压后将整个文件夹放在`./result/`目录下
 
 # 测试最佳模型
 运行以下脚本
